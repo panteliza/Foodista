@@ -8,6 +8,8 @@ import Cart from "../Cart/Cart";
 import ContactUs from "../../Contact us/ContactUs";
 import MobileNab from "../MobileNav/MobileNab";
 import CartDetails from "../Cart/CartDetails";
+import Footer from "../Footer/Footer"
+import Middle6 from "../Middle6/Middle6";
 
 export default function Home() {
   const [showCart, setShowCart] = useState(false);
@@ -38,13 +40,15 @@ export default function Home() {
           <FruitsSection />
           <TopDish />
           <AllDish />
+          <Middle6/>
+          <Footer/>
         </div>
         <div>{showCart && <Cart show={clickHandler} />}</div>
         <div>{showContact && <ContactUs contactShow={clickHandler2} />}</div>
         <div>{showMenu && <MobileNab hideMenu ={menuHandler} show={clickHandler} />}</div>
         
       </div>
-      <CartDetails />
+     
     </div>
   );
 }

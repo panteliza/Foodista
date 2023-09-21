@@ -77,7 +77,7 @@ export default function MobileNab(props) {
           className="flex items-center gap-2 cursor-pointer"
         >
          
-          <p className="bg-gradient-to-r from-red-700 to-red-500 text-transparent bg-clip-text text-3xl font-bold">Foodie</p>
+          <p className="bg-gradient-to-r from-red-700 to-red-500 text-transparent bg-clip-text text-3xl font-bold">Foodista</p>
         </motion.div>
       </Link>
     </div>

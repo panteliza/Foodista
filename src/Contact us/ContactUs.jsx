@@ -73,15 +73,11 @@ export default function ContactUs(props) {
         </button>
       </form>
       <p className="mb-2 cursor-pointer text-sm text-gray-500 dark:text-gray-400">
-        <a href="mailto:manishthapaliya8888@gmail.com" className="hover:underline">
-        manishthapaliya8888@gmail.com
+        <a href="mailto:foodistaforall@gmail.com" className="hover:underline">
+     foodistaforall@gmail.com
         </a>
       </p>
-      <p className="text-sm cursor-pointer text-gray-500 dark:text-gray-400">
-        <a href="tel:+9779845342523" className="hover:underline">
-          +977 9845343534
-        </a>
-      </p>
+     
     </div>
     </motion.div>
   );
