@@ -41,7 +41,7 @@ export default function Navbar(props) {
           whileHover={{ scale: 1.1 }}
           className=" font-semibold text-[24px]  bg-gradient-to-r from-red-700 to-red-500 text-transparent bg-clip-text "
         >
-          <Link to="/">Foodie</Link>          
+          <Link to="/">Foodista</Link>          
         </motion.h1>
       </motion.div>
 
