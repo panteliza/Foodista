@@ -14,7 +14,7 @@ function App() {
     <ContextProvider>
     <BrowserRouter>
     <Routes>
-      <Route path="/" >
+      <Route path="/Foodista" >
         <Route index element={<Home />} />
         <Route path="cart" element={<Cart />} />
         <Route path="about" element={<AboutUs />} />
