@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodista/static/css/main.2d888971.css",
-    "main.js": "/Foodista/static/js/main.7ffd60a2.js",
+    "main.js": "/Foodista/static/js/main.499626d9.js",
     "static/js/787.4ca4947b.chunk.js": "/Foodista/static/js/787.4ca4947b.chunk.js",
     "static/media/cu1.png": "/Foodista/static/media/cu1.858820017910e499f7b2.png",
     "static/media/r5.png": "/Foodista/static/media/r5.7768def3f6b4cc831114.png",
@@ -56,11 +56,11 @@
     "static/media/emptyCart.svg": "/Foodista/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
     "index.html": "/Foodista/index.html",
     "main.2d888971.css.map": "/Foodista/static/css/main.2d888971.css.map",
-    "main.7ffd60a2.js.map": "/Foodista/static/js/main.7ffd60a2.js.map",
+    "main.499626d9.js.map": "/Foodista/static/js/main.499626d9.js.map",
     "787.4ca4947b.chunk.js.map": "/Foodista/static/js/787.4ca4947b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d888971.css",
-    "static/js/main.7ffd60a2.js"
+    "static/js/main.499626d9.js"
   ]
 }
